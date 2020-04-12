@@ -2,11 +2,11 @@
 
 ## Module 1: Create a blockchain
 
-blockchain deployed on heroku: https://blockchain69.heroku.com/
+blockchain deployed on heroku: https://blockchain69.herokuapp.com/
 
-* To see the complete blockchain: [here](https://blockchain69.heroku.com/)
-* To mine a block: [mine_block](https://blockchain69.heroku.com/mine_block)
-* To check if the chain is valid or not: [is_valid](https://blockchain69.heroku.com/is_valid)
+* To see the complete blockchain: [here](https://blockchain69.herokuapp.com/)
+* To mine a block: [mine_block](https://blockchain69.herokuapp.com/mine_block)
+* To check if the chain is valid or not: [is_valid](https://blockchain69.herokuapp.com/is_valid)
 
 ##### __Note__: The proof of work is kept computationally easy to avoid crash on heroku 
 ##### __Proof Of Work__: sha256(new_proof^2 - previous_proof^2) has 4 leading zeroes
